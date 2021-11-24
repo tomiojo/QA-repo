@@ -1,0 +1,28 @@
+
+Gherkin Acceptance criteria
+
+Scenario 
+
+GIVEN User url is https://rise.capital 
+
+WHEN the user clicks on "Products"
+
+THEN user sees a drop down 
+
+WHEN user clicks on "Build wealth"
+
+THEN user is required to Fill a "Start building yourfuture" form
+
+WHEN user is required to input "25" in a box in response to "How old are you?
+
+AND user is required to input "350,000" in a box in response to "How much do you earn monthly?
+
+AND user is required to input "20.00%" in a box in response to "What % of your income do you want to invest monthly?
+
+AND user is required to input "60" in a box in response to "What age do you want to retire?
+
+AND user is required to input "stability" in a box in response to "Which of these do you consider more important? Capital growth, Stability, or Safety?
+
+AND user clicks on a button "Calculate"
+
+THEN user sees the wealth goal as "$1,309,578.71"
